@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gustavo!
  
 ```
-Estudante de Análise e desenvolvimento de sistemas pela UNICESUMAR, sou fascinado por computação desde criança e atualmente tenho 
-me dedicado a me tornar um dev fullstack.
+Estudante de Análise e desenvolvimento de sistemas pela UNICESUMAR, sou fascinado por computação desde criança e atualmente 
+tenho me dedicado a me tornar um dev fullstack.
 ```
 
 ## 💻 Tecnologias que estou estudando atualmente 
