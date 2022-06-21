@@ -1,7 +1,17 @@
-## Estes são meus projetos!
+## Olá, eu sou o Gustavo!
+ 
+```
+Estudante de Análise e desenvolvimento de sistemas pela UNICESUMAR, sou fascinado por computação desde criança e atualmente tenho 
+me dedicado a me tornar um dev fullstack.
+```
 
-  📖 Estudando atualmente: C / JavaScript
-  
+## 💻 Tecnologias que estou estudando atualmente 
+ - C
+ - Html
+ - Css
+ - JavaScript
+
+## ⚙️ Meu dados no Github 
   
 <div align="center">
   <a href="https://github.com/GChimel">
