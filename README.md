@@ -11,7 +11,7 @@ tenho me dedicado a me tornar um dev fullstack.
  - Css
  - JavaScript
 
-## ⚙️ Meu dados no Github 
+## ⚙️ Meus dados no Github 
   
 <div align="center">
   <a href="https://github.com/GChimel">
