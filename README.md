@@ -7,7 +7,6 @@ tenho me dedicado a me tornar um dev fullstack.
 
 ## 💻 Tecnologias que estou estudando atualmente 
  - JavaScript
- - Node.JS
 
 ## ⚙️ Meus dados no Github 
   
