@@ -13,7 +13,7 @@ tenho me dedicado a me tornar um dev fullstack.
 <div align="center">
   <a href="https://github.com/GChimel">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GChimel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gchimel&layout=compact&langs_count=8&theme=react">
   
 </div>
   
