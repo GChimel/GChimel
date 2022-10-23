@@ -2,12 +2,11 @@
  
 ```
 Estudante de Análise e desenvolvimento de sistemas pela UNICESUMAR, sou fascinado por computação desde criança e atualmente 
-tenho me dedicado a me tornar um dev fullstack.
+tenho me dedicado a me tornar um dev.
 ```
 
-## 💻 Tecnologias que estou estudando atualmente 
- - JavaScript
- - React
+## 💻 Estou estudando atualmente 
+ - Java
 
 ## ⚙️ Meus dados no Github 
   
