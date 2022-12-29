@@ -7,6 +7,7 @@ tenho me dedicado a me tornar um dev.
 
 ## 💻 Estou estudando atualmente 
  - Pyhton
+ - SQL
 
 ## ⚙️ Meus dados no Github 
   
