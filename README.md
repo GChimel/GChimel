@@ -14,7 +14,7 @@ tenho me dedicado a me tornar um dev.
 <div align="center">
   <a href="https://github.com/GChimel">
 
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gchimel&layout=compact&langs_count=8&theme=react">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gchiml&layout=compact&langs_count=8&theme=react">
   
   
 </div>
