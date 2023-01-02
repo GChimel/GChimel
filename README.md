@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/GChimel">
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gchimel&layout=compact&langs_count=5&theme=dark">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gchimel&theme=react"/>
 
   
   
