@@ -1,9 +1,7 @@
 ## 👨🏻‍💻Info
  
-```
-- Estudante de Análise e desenvolvimento de sistemas pela UNICESUMAR, sou fascinado por computação desde criança e atualmente 
-tenho me dedicado a me tornar um dev.
-```
+- Estudante de Análise e desenvolvimento de sistemas
+- Foco em Python
 
 ## ⚙️ Stats 
   
