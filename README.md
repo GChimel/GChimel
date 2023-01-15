@@ -8,7 +8,7 @@
 ## 👨🏻‍💻Info
  
 - Estudante de Análise e desenvolvimento de sistemas
-- Foco em Python
+- Foco em Java
 
 ## ⚙️ Stats 
 
