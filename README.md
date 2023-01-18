@@ -8,7 +8,7 @@
  
 - Estudante de Análise e desenvolvimento de sistemas
 - Foco em Java
-
+ 
 ## ⚙️ Stats
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gchimel&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gchimel&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gchimel&theme=nord_dark) |
