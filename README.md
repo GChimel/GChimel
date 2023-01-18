@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/gustavo-chimel-vacari-902909212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
 ## 👨🏻‍💻Info
  
 - Estudante de Análise e desenvolvimento de sistemas
