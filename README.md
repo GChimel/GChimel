@@ -7,7 +7,6 @@
 ## 👨🏻‍💻Info
 
 - Estudante de Análise e desenvolvimento de sistemas
-- Foco em Java 
  
 ## ⚙️ Stats
 
