@@ -7,6 +7,7 @@
 ## 👨🏻‍💻Info
 
 - Estudante de Análise e desenvolvimento de sistemas
+- Estudando e trabalhando com React-native
  
 ## ⚙️ Stats
 
