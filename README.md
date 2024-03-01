@@ -3,7 +3,7 @@
 ## 🪪 Info
 
 - ### I'm concluding my undergraduate degree in **Analysis and systems development**
-- ### Currently I'm learning more about **react-native** 
+- ### Currently I'm learning more about **react** 
 
 <div style="display: inline_block" align="center"><br>
   <img alt="Chhimel-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
