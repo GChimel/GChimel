@@ -1,7 +1,7 @@
 ## 👨‍💻 Info
 
-- ### I'm concluding my undergraduate degree in **Analysis and systems development**
-- ### Currently I'm learning more about **node** 
+-  I'm concluding my undergraduate degree in ***Analysis and systems development***
+-  Currently I'm learning more about ***node***
 
 <div style="display: inline_block" align="center"><br>
   <img alt="node" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
