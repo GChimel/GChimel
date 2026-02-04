@@ -3,6 +3,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,html,css,js,mongodb,nestjs,nodejs,postgres,prisma,react,ts,mysql,github,express,aws,python,windows,linux"/>  
+    <img src="https://skillicons.dev/icons?i=js,ts,python"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,python"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma"/>
+    <img src="https://skillicons.dev/icons?i=docker,aws,mysql,prisma"/>
+    <img src="https://skillicons.dev/icons?i=windows,linux"/>  
   </a>
 </p>
