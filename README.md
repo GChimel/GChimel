@@ -7,16 +7,16 @@ I am a dedicated Software Developer based in **Brazil**, focused on building sca
 
 ### 🛠️ My Tech Stack
 
-**Languages & Frameworks**
+**Languages & Frameworks**</br></br>
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express)](https://skillicons.dev)
 
-**Databases & ORMs**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
-*> Specializing in TypeORM and PostgreSQL performance optimization.*
+**Databases & ORMs**</br></br>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)</br>
+*-> Specializing in TypeORM and PostgreSQL performance optimization.*
 
-**DevOps & Tools**
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,githubactions,postman)](https://skillicons.dev)
-*> Currently deep-diving into AWS Certifications and SonarQube quality gates.*
+**DevOps & Tools**</br>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,githubactions,postman)](https://skillicons.dev)</br>
+*-> Currently deep-diving into AWS Certifications and SonarQube quality gates.*
 
 ---
 
@@ -24,19 +24,6 @@ I am a dedicated Software Developer based in **Brazil**, focused on building sca
 - 🏗️ **Multi-tenant Architectures:** Building complex group-based permission systems with NestJS and TypeORM.
 - ☁️ **AWS Mastery:** Preparing for AWS certifications to solidify my cloud architecture skills.
 - 🗣️ **Global Communication:** Actively refining my English for professional international collaboration.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GChimel&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GChimel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GChimel&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
