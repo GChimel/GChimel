@@ -8,7 +8,7 @@ I am a dedicated Software Developer based in **Brazil**, focused on building sca
 ### 🛠️ My Tech Stack
 
 **Languages & Frameworks**</br></br>
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go)](https://skillicons.dev)
 
 **Databases & ORMs**</br></br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)</br>
